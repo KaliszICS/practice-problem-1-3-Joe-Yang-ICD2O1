@@ -13,6 +13,7 @@ num = num + 5 #12
 
 print(num)
 
+
 #print - no new line
 
 print("Hello World") #Outputs the value in the brackets, then moves to the next line
